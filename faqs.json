@@ -1,0 +1,10 @@
+[
+    {"question": "What is your name?", "answer": "I am an AI chatbot."},
+    {"question": "How can I contact support?", "answer": "You can contact support via email at support@example.com."},
+    {"question": "What are your working hours?", "answer": "Our support team is available from 9 AM to 6 PM IST."},
+    {"question": "Can I change my password?", "answer": "Yes, you can change your password in the settings section."},
+    {"question": "How do I reset my password?", "answer": "Click on 'Forgot Password' and follow the instructions."},
+    {"question": "Where are you located?", "answer": "We are based in India with global support operations."},
+    {"question": "Do you support multiple languages?", "answer": "Currently, we support English, but more languages are coming soon!"},
+    {"question": "Is my data secure?", "answer": "Yes, we follow industry-standard security measures to keep your data safe."}
+]

@@ -1,0 +1,10 @@
+[
+    {"question": "hi", "answer": "Hello! How can I help?"},
+    {"question": "hello", "answer": "Hi there! What's on your mind?"},
+    {"question": "how are you?", "answer": "I'm just a bot, but I'm happy to chat!"},
+    {"question": "what's your name?", "answer": "I'm your AI chatbot!"},
+    {"question": "tell me a joke", "answer": "Why don't skeletons fight each other? Because they don't have the guts!"},
+    {"question": "who created you?", "answer": "I was built by a developer who loves AI!"},
+    {"question": "do you like music?", "answer": "I can't listen, but I hear Beethoven is great!"},
+    {"question": "do you sleep?", "answer": "Nope! I'm here 24/7 just for you."}
+]
